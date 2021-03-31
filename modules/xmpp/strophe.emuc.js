@@ -1,5 +1,5 @@
 /* global $ */
-
+var $
 import { getLogger } from 'jitsi-meet-logger';
 import { Strophe } from 'strophe.js';
 

@@ -1,5 +1,6 @@
 /* global $, JitsiMeetJS */
-
+var $;
+var JitsiMeetJS;
 const options = {
     hosts: {
         domain: 'jitsi-meet.example.com',

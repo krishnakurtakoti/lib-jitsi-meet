@@ -1,5 +1,5 @@
 /* global $ */
-
+var $
 import browser from '../browser';
 
 import SDPUtil from './SDPUtil';
